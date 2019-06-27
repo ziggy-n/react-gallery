@@ -59,3 +59,18 @@ typings/
 
 # next.js build output
 .next
+
+# dependencies
+/.pnp
+.pnp.js
+/src/.config.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+
